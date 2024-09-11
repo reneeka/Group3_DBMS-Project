@@ -1,2 +1,2 @@
-# Group3_DBMS-Project
-Travel Booking Management
+Travel-booking-management-system-in-sql
+
